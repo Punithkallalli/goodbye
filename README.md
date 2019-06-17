@@ -3,16 +3,16 @@
 ### _***Kevin Garvey***_
 
 ### _Description:_
-##### _A very simple HTML page that showcases header and list tags 03/18/2019_
+_A very simple HTML page that showcases header and list tags 03/18/2019_
 
 ### Setup/Installation
-- Clone ``https://github.com/kmgarvey279/goodbye``
-- Open the file in your web browser of choice.
+- _Clone ``https://github.com/kmgarvey279/goodbye``_
+- _Open the file in your web browser of choice._
 
 
 
 ### Known Bugs
-None at this time.
+_None at this time._
 
 ### Support and contact details
 
